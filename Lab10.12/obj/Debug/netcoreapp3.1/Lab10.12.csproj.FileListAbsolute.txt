@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\bin\Debug\netcoreapp3.1\Lab10.12.exe
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\bin\Debug\netcoreapp3.1\Lab10.12.deps.json
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\bin\Debug\netcoreapp3.1\Lab10.12.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\bin\Debug\netcoreapp3.1\Lab10.12.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\bin\Debug\netcoreapp3.1\Lab10.12.dll
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\bin\Debug\netcoreapp3.1\Lab10.12.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.dll
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.12\Lab10.12\Lab10.12\obj\Debug\netcoreapp3.1\Lab10.12.genruntimeconfig.cache
